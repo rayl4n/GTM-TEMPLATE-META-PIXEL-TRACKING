@@ -14,11 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Meta Pixel Tracking",
-  "categories": [
-    "ADVERTISING",
-    "MARKETING",
-    "REMARKETING"
-  ],
+  "categories": ["ADVERTISING", "MARKETING", "REMARKETING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "meta-pixel-tracking-by-rayl4n"
@@ -308,6 +304,8 @@ ___WEB_PERMISSIONS___
   }
 ]
 
+
+___TESTS___
 
 ___TESTS___
 
